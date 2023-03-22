@@ -1,0 +1,47 @@
+
+
+div#frame{
+ 
+ width:1050px ; 
+	height:1400px ; 
+	margin-top:35px;
+  margin-left:20%;
+  background-color:#D3D3D3	; 
+}
+
+.jobheader{
+  font-weight: bold;
+  text-decoration: underline;
+  margin-left:300px
+    
+}
+.shcoolname{
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+p{
+  font-family: "Times New Roman", Times, serif;
+  
+}
+
+li{
+  font-family: "Times New Roman", Times, serif;
+  
+}
+h3{
+  font-family: "Times New Roman", Times, serif;
+  
+}
+h4{
+  font-family: "Times New Roman", Times, serif;
+  
+}
+div{
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+
+
+
+
